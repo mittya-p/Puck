@@ -9,5 +9,5 @@ function startListening(){
           alert("pushed")
         }
       }); 
-    },500);
+    },100);
 }
